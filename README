@@ -1,0 +1,14 @@
++------------------------------------------------------+
+| Projet : OOP_arcade_2018                             |
+| Membres : Adrian Morvan, Hugo Lacour, Thomas Bouvier |
++------------------------------------------------------+
+L'Arcade est un projet de l'EPITECH de 2eme annee qui consiste e creer un noyau compatible avec
+plusieurs librairies graphiques et de jeux, en collaboration avec d'autres groupes.
+Les implementations sont definies dans les interfaces correspondantes :
+=> Pour creer un jeu compatible, il faut heriter de IGame.
+=> Pour creer un affichage (console ou graphique) compatible, il faut heriter de IGraphical.
+Une documentation succinte des differentes fonctions est presente dans le dossier `doc`.
+Le projet a ete realise avec deux autres groupes, les identifiants des chefs de groupe sont les
+suivants :
+ - tommy.dang@epitech.eu
+ - thomas1.vigier@epitech.eu
